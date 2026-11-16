@@ -83,13 +83,15 @@ Tecnologias que estou estudando ou utilizando em meus projetos:
 
 ### Projetos
 
+[Conheça as demonstrações online](https://arthurbrunos.github.io/projeto-listagem-pokemon/projetos/)
+
 | Projeto | O que demonstra | Código |
 | --- | --- | --- |
 | Pokédex | Consumo de API, busca e manipulação do DOM | [Repositório](https://github.com/ArthurBrunoS/Pokedex) |
 | Página pessoal | API do GitHub, seleção de projetos e localStorage | [Repositório](https://github.com/ArthurBrunoS/JavaScrypt_Unicesumar) |
 | Catálogo Pokémon | Cards com CSS, tema e filtros locais | [Repositório](https://github.com/ArthurBrunoS/projeto-listagem-pokemon) |
 
-Também desenvolvo um blog de viagens e hobbies, atualmente em repositório privado. Demonstrações públicas ainda não foram validadas.
+Também desenvolvo um [blog de viagens e hobbies](https://arthurbrunos.github.io/projeto-listagem-pokemon/demos/blog/), com demonstração pública e repositório de desenvolvimento privado.
 
 ### Contato
 
