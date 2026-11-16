@@ -5,7 +5,7 @@
 Olá! Eu sou Arthur Bruno, estudante e apaixonado por tecnologia e desenvolvimento de software. Estou construindo minha experiência por meio de projetos práticos e buscando evoluir constantemente como desenvolvedor.
 
 <p align="left">
-    <a href="https://github.com/">
+    <a href="https://github.com/ArthurBrunoS">
         <img
             alt="GitHub"
             title="Meu GitHub"
@@ -83,12 +83,16 @@ Tecnologias que estou estudando ou utilizando em meus projetos:
 
 ### Projetos
 
-- Em breve, adicionarei aqui meus principais projetos.
+| Projeto | O que demonstra | Código |
+| --- | --- | --- |
+| Pokédex | Consumo de API, busca e manipulação do DOM | [Repositório](https://github.com/ArthurBrunoS/Pokedex) |
+| Página pessoal | API do GitHub, seleção de projetos e localStorage | [Repositório](https://github.com/ArthurBrunoS/JavaScrypt_Unicesumar) |
+| Catálogo Pokémon | Cards com CSS, tema e filtros locais | [Repositório](https://github.com/ArthurBrunoS/projeto-listagem-pokemon) |
+
+Também desenvolvo um blog de viagens e hobbies, atualmente em repositório privado. Demonstrações públicas ainda não foram validadas.
 
 ### Contato
 
-- [LinkedIn](www.linkedin.com/in/
-arthur-bruno-804a4038b
-)
+- [LinkedIn](https://www.linkedin.com/in/arthur-bruno-804a4038b/)
 
 - [GitHub](https://github.com/ArthurBrunoS)
